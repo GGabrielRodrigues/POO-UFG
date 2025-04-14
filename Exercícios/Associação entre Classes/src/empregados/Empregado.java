@@ -1,4 +1,4 @@
-package empregados.empresa;
+package empregados;
 
 public class Empregado 
 {

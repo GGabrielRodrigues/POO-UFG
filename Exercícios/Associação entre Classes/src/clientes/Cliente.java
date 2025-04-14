@@ -1,4 +1,4 @@
-package clientes.endereco;
+package clientes;
 
 public class Cliente {
     String nome;

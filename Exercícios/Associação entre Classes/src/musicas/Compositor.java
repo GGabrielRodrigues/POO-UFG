@@ -1,4 +1,4 @@
-package musicas.e.compositores;
+package musicas;
 
 public class Compositor 
 {

@@ -1,4 +1,4 @@
-package alunos.cursos.e.departamentos;
+package alunos;
 
 public class Curso 
 {

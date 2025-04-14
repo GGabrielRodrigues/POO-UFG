@@ -1,5 +1,5 @@
 
-package alunos.cursos.e.departamentos;
+package alunos;
 
 public class Departamento {
     String nome;

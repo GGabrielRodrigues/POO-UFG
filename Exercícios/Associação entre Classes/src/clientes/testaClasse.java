@@ -1,4 +1,4 @@
-package clientes.endereco;
+package clientes;
 
 public class testaClasse {
     public static void main(String[] args) {
